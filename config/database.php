@@ -58,7 +58,7 @@ return [
             'port'      => '',
             'database'  => 'october',
             'username'  => 'root',
-            'password'  => 'nuHn68xnjf',
+            'password'  => '',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
